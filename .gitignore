@@ -1,0 +1,12 @@
+node_modules
+build
+package-lock.json
+.env
+.idea
+dist
+
+# Hardhat artifacts
+cache
+artifacts
+coverage.json
+coverage
